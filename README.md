@@ -33,5 +33,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-pavithra-hapuarachchi&show_icons=true&locale=en&layout=compact" alt="isuru-pavithra-hapuarachchi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Isuru-Pavithra-Hapuarachchi&" alt="Isuru-Pavithra-Hapuarachchi" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuru-pavithra-hapuarachchi&show_icons=true&theme=dark)
 
