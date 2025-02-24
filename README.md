@@ -17,9 +17,7 @@
 
 - 📄 My CV is    [Here](https://iphapuarachchi.web.app/IsuruHapuarachchi.pdf)
 
-```sh
-echo "When fishermen cannot go to sea, they repair their nets."
-```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isuruhapua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuruhapua" height="30" width="40" /></a>
